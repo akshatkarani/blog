@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: My Blog
+description: My Blog, where I write sometimes.
 show_downloads: true
 
 baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -15,10 +15,12 @@ theme: # leave it empty
 remote_theme: lorepirri/cayman-blog
 
 # social
-author: "Lore Pirri"
+author: "Akshat Karani"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: akshatkarani
+github:
+  username: akshatkarani
 
 plugins:
   - jekyll-target-blank
