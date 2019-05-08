@@ -12,7 +12,7 @@ cayman-blog:
   date_format: "%b %-d, %Y"
 
 theme: # leave it empty
-
+  
 # social
 author: "Akshat Karani"
 image: /thumbnail-jumbo.png
@@ -20,6 +20,8 @@ twitter:
   username: akshatkarani
 github:
   username: akshatkarani
+linkedin:
+  username: akshat-karani
 
 plugins:
   - jekyll-target-blank
