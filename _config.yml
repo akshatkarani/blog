@@ -12,7 +12,6 @@ cayman-blog:
   date_format: "%b %-d, %Y"
 
 theme: # leave it empty
-remote_theme: lorepirri/cayman-blog
 
 # social
 author: "Akshat Karani"
