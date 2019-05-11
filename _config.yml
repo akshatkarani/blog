@@ -1,5 +1,5 @@
 title: My Blog
-description: My Blog, where I write sometimes.
+description: My Blog, where I write sometimes, so I can impart my vast wisdom to all of you :p
 show_downloads: true
 
 baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.

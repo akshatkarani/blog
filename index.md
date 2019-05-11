@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-My blog, where I write sometimes, so I can impart my vast wisdom to all of you.
+Just kidding, I would never impart my wisdom to any of you.
+As you can see, I am still trying to come up with a creative, somewhat inspirational name for this blog. Though I doubt I will ever come up with one. If you (yes you, one of the five people that will ever visit here) have any suggestion, then feel free to tell me.
